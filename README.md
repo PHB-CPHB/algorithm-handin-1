@@ -4,7 +4,7 @@ School Handin in Algorithm consist of 3 assignments
 
 First Assignment
 **Assignment - Birthday problem.**
-`Write a program that takes an integer N from the commandline and uses StdRandom.uniform() to generate a random sequence of integers between 0 and N – 1. Run experiments to validate the hypothesis that the number of integers generated before the first repeated value is found is ~√N/2.`
+Write a program that takes an integer N from the commandline and uses StdRandom.uniform() to generate a random sequence of integers between 0 and N – 1. Run experiments to validate the hypothesis that the number of integers generated before the first repeated value is found is ~√N/2.
 
 Second Assignment
 **Assignment - Coupon collector problem.**
