@@ -12,11 +12,11 @@ You need to have Java 1.8 installed
 2. Go to the folder
 3. Run `javac folder/*.java` - Example `javac algorithmsexerciseone/*.java`
   - There are 3 different types of commands
-    - **Birthday takes 2 argumenst Times and days (How many time to run and the amount of days) it returns avg.
+    - **Birthday takes 2 argumenst Times and days (How many time to run and the amount of days) it returns avg.**
     1. Run `java folder/main args[0] args[1] args[2]` - Example `java algorithmsexerciseone/main Birthday 10000 365`
-    - **Cupon takes 2 argumenst Times and days (How many time to run and the amount of cupons) it returns avg.
+    - **Cupon takes 2 argumenst Times and days (How many time to run and the amount of cupons) it returns avg.**
     1. Run `java folder/main args[0] args[1] args[2]` - Example `java algorithmsexerciseone/main Cupon 10000 365`
-    - **Deck it does not take any arguments
+    - **Deck it does not take any arguments**
     1. Run `java folder/main args[0]` - Example `java algorithmsexerciseone/main Cupon`
 
 ### Usage in IDE
